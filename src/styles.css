@@ -54,7 +54,22 @@ p {
   line-height: 1.5;
   font-size: 24px;
 }
-
+.about-section {
+  padding: 160px 20px;
+}
+.about-section h1 {
+  font-size: 64px;
+  line-height: 70px;
+}
+.about-section h2 {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+}
+.about-section p {
+  font-family: var(--default-font-family);
+  font-size: 16px;
+  font-weight: 100;
+}
 .btn-branding {
   background: var(--branding-color);
   border-radius: 4px;
